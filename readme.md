@@ -1,18 +1,30 @@
 # Introduction by Lim Poh Guan
 This is a repository for Module 3 Lesson 2 to show 15 GitHub commands and 4 commands most used in projects
 
-## What is GitHub Authentication and how what methods are available to be implemented?
-GitHub Authentication is 
+## What is GitHub Authentication and what methods are available to be implemented?
+1. GitHub Authentication is to securely access your account's resources by authenticating to GitHub, using different credentials depending on where you authenticate
 
-3 methods which are available are
+2. Three methods which are available are
 - Username and password with two-factor authentication
 - Personal access token
 - SSH key
 
 ## 15 GitHub commands
-1. 3
-2. 
-
+1. git config
+2. git init
+3. git diff
+4. git reset
+5. git status
+6. git rm
+7. git log
+8. git show
+9. git tag
+10. git branch
+11. git checkout
+12. git merge
+13. git remote
+14. git pull
+15. git stash
 
 ## 4 Github commands most used in projects
 
