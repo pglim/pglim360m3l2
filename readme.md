@@ -1,7 +1,15 @@
 # Introduction by Lim Poh Guan
-This is a repository for Module 3 Lesson 2 to show 15 commands and 4 commonly commands
+This is a repository for Module 3 Lesson 2 to show 15 GitHub commands and 4 commands most used in projects
 
-## 15 github commands
+## What is GitHub Authentication and how what methods are available to be implemented?
+GitHub Authentication is 
+
+3 methods which are available are
+- Username and password with two-factor authentication
+- Personal access token
+- SSH key
+
+## 15 GitHub commands
 1. 3
 2. 
 
